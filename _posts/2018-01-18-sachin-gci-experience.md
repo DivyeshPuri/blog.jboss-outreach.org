@@ -14,7 +14,7 @@ comments: true
 featured: true
 ---
 
-![Hello World!](http://clickrightng.com/wp-content/uploads/2017/06/hello-world.jpg)
+![Hello World!](https://clickrightng.com/wp-content/uploads/2017/06/hello-world.jpg)
 
 As I look back now, November 28th was my best day of 2017. It was late at night, 10:30 if my memory is right, and I had school the next day. However, I was really, really excited. A minute later, I refreshed my page, and Google Code-In had officially started. With a silent _Woohoo_, I proceeded to fill up all the required information. As soon all the formalities were completed, I scanned the organisation list for the one that I had decided to go with the day the list of organisations was released. 
 
